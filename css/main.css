@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+}
+
+h1, h2{
+	color: white;
+	text-align: center;
+}
+
+.green{
+	color: lightgreen;
+}
+
+.blue{
+	color: lightblue;
+}
+
+.pink{
+	color: lightpink;
+}
